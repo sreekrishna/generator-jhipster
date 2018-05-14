@@ -25,7 +25,7 @@ const prompts = require('./prompts');
 const jhiCore = require('jhipster-core');
 const BaseGenerator = require('../generator-base');
 const constants = require('../generator-constants');
-
+//ading comment
 /* constants used throughout */
 const SUPPORTED_VALIDATION_RULES = constants.SUPPORTED_VALIDATION_RULES;
 let useBlueprint;
